@@ -1,0 +1,4 @@
+POSSIBLE EXTENSIONS
+- add prizes one by one to collection screen
+- add back button to the collection screen
+- store all prizes in an array
